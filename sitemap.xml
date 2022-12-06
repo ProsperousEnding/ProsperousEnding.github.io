@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gitee.com/manifest.json</loc>
+    <loc>http://prosperousending.github.io/manifest.json</loc>
     
-    <lastmod>2022-12-04</lastmod>
+    <lastmod>2022-12-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://gitee.com/posts/4a17b156.html</loc>
+    <loc>http://prosperousending.github.io/posts/10c08d4d.html</loc>
     
-    <lastmod>2022-12-04</lastmod>
+    <lastmod>2022-12-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,13 +21,34 @@
   
 
   <url>
-    <loc>http://gitee.com/</loc>
+    <loc>http://prosperousending.github.io/</loc>
     <lastmod>2022-12-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>http://prosperousending.github.io/tags/%E5%8D%9A%E5%AE%A2%E5%9B%AD/</loc>
+    <lastmod>2022-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://prosperousending.github.io/tags/%E7%BE%8E%E5%8C%96/</loc>
+    <lastmod>2022-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://prosperousending.github.io/categories/%E5%B1%9E%E4%BA%8E%E6%88%91/</loc>
+    <lastmod>2022-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
